@@ -6,7 +6,7 @@ using namespace std;
 int main(){
 
     string operation;
-    float number1, number2;
+    float number1, number2, number3;
     // double currentAnswer;
 
     system("clear");
@@ -30,8 +30,8 @@ int main(){
     }else if (operation == "/" || operation == "÷"){
         cout << "FInal Answer: " <<  number1 / number2 << endl;
     }
+  // testing git
     
-
 
     return 0;
 }
