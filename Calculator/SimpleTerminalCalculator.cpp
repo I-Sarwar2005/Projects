@@ -7,6 +7,7 @@ int main(){
 
     string operation;
     float number1, number2, number3;
+    number3 = 0;
     // double currentAnswer;
 
     system("clear");
